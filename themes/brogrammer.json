@@ -157,9 +157,6 @@
           "operator": {
             "color": "#FF5252FF"
           },
-          // "property": {
-          //   "color": "#2ecc71"
-          // },
           "punctuation": {
             "color": "#ffffff"
           },
