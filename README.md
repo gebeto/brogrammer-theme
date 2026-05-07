@@ -2,6 +2,8 @@
 
 Originally based on [brogrammer-theme](https://github.com/kenwheeler/brogrammer-theme) by Ken Wheeler.
 
+<img width="1630" height="1074" alt="tsx" src="https://github.com/user-attachments/assets/b3add086-3970-4e8b-9eb9-24ce163f548b" />
+
 
 ## Setup
 
