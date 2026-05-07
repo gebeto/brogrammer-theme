@@ -2,6 +2,8 @@
   "$schema": "https://zed.dev/schema/themes/v0.2.0.json",
   "name": "Brogrammer",
   "author": "gebeto",
+  "description": "Brogrammer",
+  "isUserGenerated": true,
   "themes": [
     {
       "name": "Brogrammer",
@@ -41,14 +43,13 @@
         "tab.inactive_background": "#1a1a1a",
         "tab.active_background": "#2a2a2a",
         "editor.background": "#1a1a1a",
-        // "editor.foreground": "#ecf0f1",
         "editor.foreground": "#ecf0f1",
-        "editor.gutter.background": "#2a2a2a",
+        "editor.gutter.background": "#1a1a1a",
+        "editor.line_number": "#606060",
+        "editor.active_line_number": "#eeeeee",
         "editor.subheader.background": "#2a2a2a",
         "editor.active_line.background": "#2a2a2a",
         "editor.highlighted_line.background": "#2a2a2a",
-        "editor.line_number": "#ffffff",
-        "editor.active_line_number": "#ffffff",
         "editor.invisible": "#F3FFB51A",
         "editor.wrap_guide": "#222222",
         "editor.active_wrap_guide": "#ffffff",
@@ -148,7 +149,7 @@
             "font_weight": 700
           },
           "keyword.declaration": {
-            "color": "#3498db",
+            "color": "#3498db"
           },
           "keyword.operator": {
             "color": "#e74c3c"
@@ -256,7 +257,5 @@
         "version_control.ignored": "#606060"
       }
     }
-  ],
-  "isUserGenerated": true,
-  "description": "Brogrammer"
+  ]
 }
